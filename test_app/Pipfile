@@ -6,10 +6,16 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
-mysqlclient = "*"
 pyyaml = "*"
 requests = "*"
 django-cors-headers = "*"
+asgiref = "*"
+charset-normalizer = "*"
+certifi = "*"
+cffi = "*"
+cryptography = "*"
+idna = "*"
+urllib3 = "*"
 
 [dev-packages]
 
