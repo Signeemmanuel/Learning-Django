@@ -16,6 +16,8 @@ cffi = "*"
 cryptography = "*"
 idna = "*"
 urllib3 = "*"
+algoliasearch-django = "*"
+djangorestframework-simplejwt = "*"
 
 [dev-packages]
 

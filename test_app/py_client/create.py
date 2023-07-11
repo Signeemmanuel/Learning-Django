@@ -2,7 +2,7 @@ import requests
 
 endpoint = 'http://localhost:8000/api/products/'
 data = {
-    'title': 'System Programming full course'
+    'title': 'Microprocessor Programming full course'
 }
 
 get_response = requests.post(endpoint, json=data)
